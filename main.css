@@ -1,8 +1,26 @@
 .nav-bar {
     background-color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
 
 .icon {
     width: 100px;
     cursor: pointer;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 12pt;
+
+}
+
+.log-out {
+
+}
+
+.add-recipe {
+
 }
