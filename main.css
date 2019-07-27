@@ -1,9 +1,8 @@
 .nav-bar {
     background-color: lightgrey;
-    color: blue;
 }
 
 .icon {
     width: 100px;
-
+    cursor: pointer;
 }
