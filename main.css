@@ -1,5 +1,8 @@
 .nav-bar {
+    font-family: Tahoma;
+    margin-top: 0px;
     background-color: lightgrey;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,14 +16,16 @@
 
 .nav-link {
     text-decoration: none;
-    font-size: 12pt;
-
+    font-size: 14pt;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-.log-out {
-
-}
-
-.add-recipe {
-
+.nav-links {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: flex-end;
 }
