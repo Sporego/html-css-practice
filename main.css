@@ -1,8 +1,9 @@
 .nav-bar {
+    background-color: lightgrey;
     color: blue;
 }
 
 .icon {
-    width: 10px;
-    height: auto;
+    width: 100px;
+
 }
